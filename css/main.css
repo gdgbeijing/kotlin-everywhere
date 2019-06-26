@@ -1,0 +1,25 @@
+.jumbotron {
+  background: url(../img/headerbg.png) no-repeat top left;
+}
+
+#agenda th, #agenda td {
+  vertical-align: middle;
+}
+
+#speakers {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 14px;
+  text-align: center;
+}
+
+.speaker-image-detail {
+  width: 30%;
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+a.card-link {
+  font-size: 18px;
+}
