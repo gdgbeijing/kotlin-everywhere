@@ -1,0 +1,16 @@
+{
+  "short_name": "Kotlin/Everywhere",
+  "name": "Kotlin/Everywhere Beijing 2019",
+  "icons": [
+    {
+      "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#FFF582",
+  "display": "standalone",
+  "scope": ".",
+  "theme_color": "#FFF582"
+}
