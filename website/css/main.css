@@ -6,6 +6,13 @@
   vertical-align: middle;
 }
 
+.map-icon {
+  width: 18px;
+  height: 18px;
+  margin-left: -4px;
+  vertical-align: text-bottom;
+}
+
 #speakers {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
