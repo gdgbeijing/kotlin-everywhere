@@ -15,7 +15,7 @@ Videos: http://www.itdks.com/index.php/Act/apply_upgrade/id/3127/mUid/24730.html
 
 感谢：
 
-- 讲师：Svetlana Isakova、陈琦、贾彦伟、陈龙博、段建华、朱涛、朱凯、乔禹昂、高杰。
+- 讲师：Svetlana Isakova、陈琦、贾彦伟、陈龙博、段建华、朱涛、朱凯、乔禹昂、高杰
 - Google：Tracy Wang
 - JetBrains：范圣佑、赵磊
 - 组织者：韩国恺、高冰
