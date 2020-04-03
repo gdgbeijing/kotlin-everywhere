@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "kotlin19",
+    "public": "website",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
