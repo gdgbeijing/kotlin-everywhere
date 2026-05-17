@@ -1,6 +1,6 @@
 # Kotlin/Everywhere Beijing 2019
 
-Website: https://kotlin.gdgbeijing.org/
+Website: https://kotlin19.web.app/
 
 Photos: https://photos.app.goo.gl/WURaWRCJ2jJ8LPBV6
 
